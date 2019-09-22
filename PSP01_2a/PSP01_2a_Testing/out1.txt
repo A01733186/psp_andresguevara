@@ -1,0 +1,2 @@
+Lines of code = 27
+Methods = 1
